@@ -74,10 +74,10 @@ A Inteligência Artificial Generativa pode atuar como um assistente poderoso na 
 
 Este miniguia foi desenhado em uma progressão lógica de 4 fases para construir um perfil sólido em Segurança da Informação.
 
-┌────────────────┐    ┌─────────────────┐    ┌────────────────┐    ┌────────────────────┐
-│ Fase 1: Base   │ >  │ Fase 2: Defesa  │ >  │ Fase 3: Ataque │ >  │ Fase 4: Governança │
-│ Fundamentação  │    │     Operação    │    │  Testes (Red)  │    │     Estratégia     │
-└────────────────┘    └─────────────────┘    └────────────────┘    └────────────────────┘
+   ┌────────────────┐    ┌─────────────────┐    ┌────────────────┐    ┌────────────────────┐
+   │ Fase 1: Base   │ >  │ Fase 2: Defesa  │ >  │ Fase 3: Ataque │ >  │ Fase 4: Governança │
+   │ Fundamentação  │    │     Operação    │    │  Testes (Red)  │    │     Estratégia     │
+   └────────────────┘    └─────────────────┘    └────────────────┘    └────────────────────┘
 
 
 ---
