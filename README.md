@@ -76,6 +76,8 @@ Este miniguia foi desenhado em uma progressão lógica de 4 fases para construir
 
     
    │ Fase 1: Base   │ >  │ Fase 2: Defesa  │ >  │ Fase 3: Ataque │ >  │ Fase 4: Governança │
+
+   
    │ Fundamentação  │    │     Operação    │    │  Testes (Red)  │    │     Estratégia     │
  
 
